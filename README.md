@@ -16,7 +16,7 @@ Comprehensive analysis of 100,000+ retail sales records to identify customer beh
 - Developed interactive dashboards for stakeholder reporting
 
 ## Files in this Repository
-- `data_analysis.ipynb` - Main analysis notebook
+- `Retail_Sales_Analysis.ipynb` - Main analysis notebook
 - `sales_dashboard.twbx` - Tableau dashboard file
 - `data/` - Sample datasets used
 - `images/` - Charts and visualizations
