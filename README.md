@@ -28,4 +28,4 @@ Comprehensive analysis of 100,000+ retail sales records to identify customer beh
 - Data visualization
 - Business insights generation
 
-*This project was completed as part of my Business Analytics program at Conestoga College.*
+*Independent project developed to strengthen data analysis expertise.*
