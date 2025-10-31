@@ -17,9 +17,6 @@ Comprehensive analysis of 100,000+ retail sales records to identify customer beh
 
 ## Files in this Repository
 - `Retail_Sales_Analysis.ipynb` - Main analysis notebook
-- `sales_dashboard.twbx` - Tableau dashboard file
-- `data/` - Sample datasets used
-- `images/` - Charts and visualizations
 
 ## Skills Demonstrated
 - Data cleaning and preprocessing
